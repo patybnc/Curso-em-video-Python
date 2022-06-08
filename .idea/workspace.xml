@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abcd13c8-5b7e-4d7a-861b-00912474d36a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex052.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +47,8 @@
       <recent name="C:\Users\Cliente\Documents\scrpit-python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex052">
-    <configuration name="ex048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex056">
+    <configuration name="ex045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrpit-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex048.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex045.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrpit-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex049.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex053.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex054" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrpit-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex050.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex054.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex055" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrpit-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex051.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex055.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex056" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrpit-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex052.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex056.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex052" />
-        <item itemvalue="Python.ex051" />
-        <item itemvalue="Python.ex050" />
-        <item itemvalue="Python.ex049" />
-        <item itemvalue="Python.ex048" />
+        <item itemvalue="Python.ex056" />
+        <item itemvalue="Python.ex055" />
+        <item itemvalue="Python.ex054" />
+        <item itemvalue="Python.ex053" />
+        <item itemvalue="Python.ex045" />
       </list>
     </recent_temporary>
   </component>
