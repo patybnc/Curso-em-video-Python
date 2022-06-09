@@ -2,60 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abcd13c8-5b7e-4d7a-861b-00912474d36a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex057validacaodados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex058jogoadivinhacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex059criandomenuopcao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex060calculofatorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex061progressaoaritimetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex062superprogressaoaritimetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex063sequenciafibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex064tratandovariosvalores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex065maiormenorvalores.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex001perguntandonome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex002diamesano.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex003somandodoisnumeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex004dissecandoumavariavel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex005antecessorsucessor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex006dobrotriploraiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex007mediaaritmetica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex008convesormedidas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex009tabuada.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex010conversormoedas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex011pintadoparede.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex012calculandodescontos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex013reajustesalarial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex014convesrotemperaturas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex015alugueldecarros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex016.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex016quebrandonumero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex017catetoshipotenusa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex018.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex018senocossenotangente.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex019.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex019sorteandoitemlista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex020.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex020sorteandoordemlista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex021tocandomp3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex022analisadortextos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex023.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex023seprandodigitosdeumnumero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex024.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex024verificandoprimeirasletras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex025.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex025procurandostringdentrodaoutra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex026.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex026primeiraeultimaocorrenciastring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex027.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex027primeiroeultimonome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex036.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex036aprovandoemprestimo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex037.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex037conversordebasesnumericas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex038.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex038comparandonumeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex039.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex039alistamentomilitar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex040.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex040classicodamedia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex041.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex041classificandoatletas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex042.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex042analisandotriangulos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex043.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex043massacorporal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex044.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex044gerenciadorpagamentos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex045.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex045pedrapapeltesoura.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex046.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex046contagemregressivapy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex047.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex047contagemdepares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex048.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex048somaimparesmutiplosdetres.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex049.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex049tabuada.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex050.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex050somadospares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex051.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex051progressaoaritmetica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex052.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex052numerosprimos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex053.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex053detectordepalindromo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex054.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex054grupomaioridade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex055.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex055maiormenordasequencia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex056.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex056analisadorcompleto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +47,8 @@
       <recent name="C:\Users\Cliente\Documents\scrpit-python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex059criandomenuopcao">
-    <configuration name="aula14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex065maiormenorvalores">
+    <configuration name="ex061progressaoaritimetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrpit-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex061progressaoaritimetica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex056analisadorcompleto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex062superprogressaoaritimetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrpit-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Cliente\Documents\scrpit-python\ex056analisadorcompleto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex062superprogressaoaritimetica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex057validacaodados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex063sequenciafibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrpit-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Cliente\Documents\scrpit-python\ex057validacaodados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex063sequenciafibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex058jogoadivinhacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex064tratandovariosvalores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrpit-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Cliente\Documents\scrpit-python\ex058jogoadivinhacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex064tratandovariosvalores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex059criandomenuopcao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex065maiormenorvalores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrpit-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Cliente\Documents\scrpit-python\ex059criandomenuopcao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex065maiormenorvalores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex059criandomenuopcao" />
-        <item itemvalue="Python.ex058jogoadivinhacao" />
-        <item itemvalue="Python.ex057validacaodados" />
-        <item itemvalue="Python.aula14" />
-        <item itemvalue="Python.ex056analisadorcompleto" />
+        <item itemvalue="Python.ex065maiormenorvalores" />
+        <item itemvalue="Python.ex064tratandovariosvalores" />
+        <item itemvalue="Python.ex063sequenciafibonacci" />
+        <item itemvalue="Python.ex062superprogressaoaritimetica" />
+        <item itemvalue="Python.ex061progressaoaritimetica" />
       </list>
     </recent_temporary>
   </component>
